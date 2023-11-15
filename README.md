@@ -28,7 +28,7 @@ Okay so about me. I am a fullstack(backend heavy) software engineer with about 3
 
 <!-- https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjU5NzY2NWMzYjA1NjY4OGZiNGI2NWUzNDY4MWU3OTU0ZTY5YzQxNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/M9gbBd9nbDrOTu1Mqx/giphy.gif -->
 
-<!--
+
 **AlbertPrince/AlbertPrince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -41,4 +41,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...apmensah@gmail.com
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...
--->
+
