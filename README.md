@@ -22,7 +22,7 @@
 ---
 
 ### :man_technologist: About Me :
-So my journey into software began about 4 years although if I my confess my interest in software engineering has been there way before that. I always liked the idea of doing something that people would find useful and creating a product that is used by millions or hopefully billions of people has always been a dream of mine. Since then I have tried everything I can from design to backend development to frontend development to even taking a look at AI. My journey hasn't always been smooth as for some time now I have been dealing with depression and horrendous bouts of anxiety. I don't want this to be a sob story. What I want is to focus on my dreams and accomplish my goals and so from this moment 15/05/2023 I have resolved to move forward with everything I can. I hadn't made as much progress as I could thanks to my issues but hopefully I may overcome that.
+So my journey into software began about 4 years although if I my confess my interest in software engineering has been there way before that. I always liked the idea of doing something that people would find useful and creating a product that is used by millions or hopefully billions of people has always been a dream of mine. Since then I have tried everything I can from design to backend development to frontend development to even taking a look at AI. 
 
 When it comes to programming I have a love for python and Kotlin. I am not so fond of Java although I can work with it - haha. I have also worked with angular and tailwind on a couple of projects - man, I love tailwind CSS. I haven't worked on a lot of projects although I am going to rectify that. Please find a link to my portfolio website below.
 
@@ -37,12 +37,6 @@ Okay some other things I like doing - basically my interest.
 - I love writing and although I haven't done it for a long time I am planning to do more of that. Will mostly be article writing, some self help and also my very first novel. Already have an idea for that.
 - I love arts so drawing, painting and stuff like that are things I enjoy a lot.
 - Music and instruments. Love all sorts of music from classical music to rap to reggae etc. Also learning how to play the piano.
-
-PS: if you have taken a look at my git history, you won't see a lot of activity for 2 reasons.
-1. I worked on private projects mostly
-2. I had 2 different github accounts, one for work and then this. Merging the 2 made me lose about 2 years of work history as the projects were private.
-
-Sorry if this is too much to read. I swear I am not this talkative but I am using writing as a sort of therapy to deal with my issues so sorry about that. If you have any questions though feel free to mail me here - apmensah@gmail.com
 
 
 <!-- https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjU5NzY2NWMzYjA1NjY4OGZiNGI2NWUzNDY4MWU3OTU0ZTY5YzQxNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/M9gbBd9nbDrOTu1Mqx/giphy.gif -->
