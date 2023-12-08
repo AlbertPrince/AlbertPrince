@@ -33,22 +33,17 @@ So some projects I have worked on
 - Travel and Tour Booking Application(Myma Air Travel and Tour). Created a simple booking application for a travel and tour company that enabled clients to book accomodation, travel and tour packages etc. Not deployed as I received no compensation for this. Also my very first Django project so forgive me if it isn't so sophisticated.
 - Yeah then a few practice projects. Not going to mention them. You can have a look through my repositories though. Also in case I have not mentioned, planning to do open source ASAP.
 
-Okay some other things I like doing - basically my interest.
-- I love writing and although I haven't done it for a long time I am planning to do more of that. Will mostly be article writing, some self help and also my very first novel. Already have an idea for that.
-- I love arts so drawing, painting and stuff like that are things I enjoy a lot.
-- Music and instruments. Love all sorts of music from classical music to rap to reggae etc. Also learning how to play the piano.
-
 
 <!-- https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjU5NzY2NWMzYjA1NjY4OGZiNGI2NWUzNDY4MWU3OTU0ZTY5YzQxNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/M9gbBd9nbDrOTu1Mqx/giphy.gif -->
 
 
 
-- 🔭 I’m currently working on improving my skills as I am not very confident with what I know.
-- 🌱 I’m currently learning Django, Spring Boot, Angular.
+- 🔭 I’m currently working on a few essential projects that will serve a lot of users.
+- 🌱 I’m currently learning Django, C# and ASP.Net
 - 👯 I’m looking to collaborate on a one or two personal projects and finally start doing open source.
-- 🤔 I’m looking for help with life. I'd like a mentor and a good friend. I don't have many of those.
+- 🤔 I’m looking for anything interesting.
 - 💬 Ask me about tech - anything tech please. Trust me I'd learn from you as much as you'd learn from me.
 - 📫 How to reach me: ...apmensah@gmail.com
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: I learned calculus on the day of my final WASSCE emaths paper - at 3 AM and I had an A. How crazy is that. Oh I am also very much a nerd and a geek so neek?... 
+- ⚡ Fun fact: The universe could have been created more than once.
 
