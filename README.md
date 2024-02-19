@@ -27,7 +27,7 @@
 
 <!-- https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjU5NzY2NWMzYjA1NjY4OGZiNGI2NWUzNDY4MWU3OTU0ZTY5YzQxNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/M9gbBd9nbDrOTu1Mqx/giphy.gif -->
 
-- 🔭 I’m currently working on a few essential projects that will serve a lot of users.
+- 🔭 I’m currently working on getting my AWS Cloud Practioner Certification.
 - 🌱 I’m currently learning Django, C# and ASP.Net
 - 👯 I’m looking to collaborate on a one or two personal projects and finally start doing open source.
 - 🤔 I’m looking for anything interesting.
