@@ -1,6 +1,7 @@
 # Hi there, I'm Albert Prince 👋
 
-I'm a software developer passionate about building meaningful digital products—especially in travel, marketplaces, and AI-powered learning. 
+I'm a software developer passionate about building meaningful digital products — especially in travel, marketplaces, and AI-powered learning. I believe in creating solutions tailored to the Ghanaian and broader African ecosystem. I enjoy connecting with like-minded people to share ideas and collaborate on impactful projects.
+
 
 ---
 
@@ -11,6 +12,11 @@ I'm a software developer passionate about building meaningful digital products�
 - [Veiligh EHS](https://apps.apple.com/dk/app/veiligh-ehs/id6473560844) - First EHS management app made in Africa 
 
 ---
+
+## 🔭 What I'm Currently Working On
+- 🚕 A ride-sharing mobile app built with Flutter & Firebase
+- 🌍 Building **VendorGo** – a marketplace API for roaming vendors in Ghana
+
 
 ## 🛠 Tech Stack
 
