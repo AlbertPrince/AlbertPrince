@@ -1,13 +1,12 @@
 # Hi there, I'm Albert Prince 👋
 
-I'm a software developer passionate about building meaningful digital products—especially in travel, marketplaces, and AI-powered learning.
+I'm a software developer passionate about building meaningful digital products—especially in travel, marketplaces, and AI-powered learning. 
 
 ---
 
 ## 🚀 Projects
 - 🌍 [VendorGo](https://github.com/AlbertPrince/VendorGo) – Roaming vendor marketplace API for Ghana and Africa
 - 🧠 [NovaNarratives](https://github.com/AlbertPrince/NovaNarratives) – Interactive AI storytelling platform
-- 📚 [French AI Tutor](https://github.com/AlbertPrince/FrenchTutor) – AI-powered French learning platform for complete beginners
 
 ---
 
