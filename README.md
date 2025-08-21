@@ -1,6 +1,6 @@
 # Hi there, I'm Albert Prince 👋
 
-I'm a software developer passionate about building meaningful digital products — especially in travel, marketplaces, and AI-powered learning. I believe in creating solutions tailored to the Ghanaian and broader African ecosystem. I enjoy connecting with like-minded people to share ideas and collaborate on impactful projects.
+I'm a software developer passionate about building meaningful digital products that makes people's lives easier — especially in travel, marketplaces, learning, transportation, etc. I believe in creating solutions tailored to the Ghanaian and broader African ecosystem. I enjoy connecting with like-minded people to share ideas and collaborate on impactful projects.
 
 
 ---
