@@ -6,7 +6,7 @@ I'm a software developer passionate about building meaningful digital products t
 ---
 
 ## 🚀 Projects
-- 🌍 [VendorGo](https://github.com/AlbertPrince/VendorGo) – Roaming vendor marketplace API for Ghana and Africa
+- 🌍 [VendorGo](https://github.com/AlbertPrince/RoamingVendorAPI) – Roaming vendor marketplace API for Ghana and Africa
 - [Domedo Online](https://domedo.online/orders) - Online Shopping platform for Domedo Restaurant
 - [Veiligh EHS](https://apps.apple.com/dk/app/veiligh-ehs/id6473560844) - First EHS management app made in Africa 
 
